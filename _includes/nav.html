@@ -1,0 +1,12 @@
+<nav class="site-nav">
+    <div class="trigger">
+        <ol>
+            {% assign pages = site.pages | sort: "order" %}
+
+            {% for nav_page in pages %}
+                {% if nav_page.tags contains "top" %}
+                    {% include nav_group.html page=nav_page %}
+                {% endif %}
+            {% endfor %}
+    </div>
+</nav>

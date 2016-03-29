@@ -97,7 +97,7 @@ GEM
       rb-inotify (>= 0.9.7)
     mercenary (0.3.5)
     mini_portile2 (2.0.0)
-    minitest (5.4.3)
+    minitest (5.8.4)
     multipart-post (2.0.0)
     net-dns (0.8.0)
     nokogiri (1.6.7.2-x64-mingw32)
@@ -122,12 +122,15 @@ GEM
       ethon (>= 0.8.0)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
+    wdm (0.1.1)
 
 PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
   github-pages
+  jekyll-sitemap
+  wdm (>= 0.1.0)
 
 BUNDLED WITH
    1.11.2
