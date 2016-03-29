@@ -1,12 +1,18 @@
 {% assign page_tags = include.page.tags | split: "," %}
+{% if include.page.url == page.url %}
+    {% assign page_class = "active" %}
+{% else %}
+    {% assign page_class = "" %}
+{% endif %}
+
 {% case page_tags.size %}
 {% when 1 %}
-    <li><a class="page-link {% if include.page.url == page.url%}active{% endif%}" href="{{include.page.url}}">{{include.page.title}}</a></li>
+    <li class="{{page_class}}"><a class="page-link {{page_class}}" href="{{include.page.url}}">{{include.page.title}}</a></li>
 {% else %}
-    <li><a class="page-link {% if include.page.url == page.url%}active{% endif%}" href="{{include.page.url}}">{{include.page.title}}</a>
+    <li class="{{page_class}}"><a class="page-link {{page_class}}" href="{{include.page.url}}">{{include.page.title}}</a>
     {% for sub_tag in include.page.tags %}
         {% unless sub_tag == "top" %}
-            <ol class="{{sub_tag}}">
+            <ol class="{{sub_tag}} {% if page.tags contains sub_tag%}active{% endif %}">
                 {% assign sub_pages = site.pages | where: "tags", sub_tag | sort: "order" %}
 
                 {% for sub_page in sub_pages %}

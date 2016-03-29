@@ -1,0 +1,14 @@
+nav ol {
+  list-style-type: none;
+}
+
+nav ol ol {
+  display: none;
+  li {
+    list-style-image: url("/images/arrow.gif");
+  }
+}
+
+nav ol.active {
+  display: inherit;
+}
