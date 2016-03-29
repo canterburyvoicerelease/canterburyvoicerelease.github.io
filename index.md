@@ -12,4 +12,4 @@ Canterbury Voice Releases have taken the markets of New Zealand, Australia, USA 
 
 Performance is guaranteed and with full warranty and spares back-up there's no problem with after sales service. Distributors are located in most major markets, so contact the one nearest to you for further information.
 
-New Zealand contact [Bruce Rickard ](distributors)
+New Zealand contact [Bruce Rickard](distributors)

@@ -13,7 +13,13 @@ description: > # this means to ignore newlines until "baseurl:"
   The World's most reliable voice activated clay target release system for Trap/DTL, Skeet, 5-Stand & ZZ/Helice shooting. No more complaints about pullers and no more 'turning down' fast or slow targets.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.cvr.co.nz" # the base hostname & protocol for your site
-
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "page"
+      
 # Build settings
 markdown: kramdown
 
