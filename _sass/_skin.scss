@@ -1,5 +1,12 @@
 nav ol {
   list-style-type: none;
+  
+  li {
+    margin-bottom: 1em;
+  }
+  ol li:last-of-type {
+    margin-bottom: 1.5em;
+  }
 }
 
 nav ol ol {
@@ -11,4 +18,20 @@ nav ol ol {
 
 nav ol.active {
   display: inherit;
+}
+
+header .title {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  
+  .site-title {
+    font-size: 38px;
+  }
+  
+  .site-tagline {
+    font-style: italic;
+  }
 }
