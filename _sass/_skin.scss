@@ -36,3 +36,47 @@ header .title {
     font-style: italic;
   }
 }
+
+body {
+  background-color: #efefef;
+}
+
+header, footer, .page-and-nav {
+  background-color: white;
+}
+
+a {
+  color: darkgreen;
+}
+
+body.trap-dtl-wireless {
+  #dtl-wireless {
+    overflow: hidden;
+    height: auto;
+
+    img {
+      float: left;
+      clear: both;
+      margin: 25px;
+    }
+  }
+}
+
+body.olympic-bunker {
+  h3:first-of-type {
+    display: none;
+  }
+}
+
+.post-content {
+  img {
+    float: right;
+    margin: $spacing-unit;
+  }
+}
+
+blockquote {
+  width: 60%;
+  padding: $spacing-unit;
+  border: 2px solid black;
+}

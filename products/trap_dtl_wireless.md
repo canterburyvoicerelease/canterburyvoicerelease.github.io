@@ -2,8 +2,9 @@
 layout: page
 title: Trap/DTL - Wireless
 tags: products
-order: 10
+order: 20
 ---
+<div id="dtl-wireless" markdown="1">
 ![Wireless][1] This is the latest unit to be developed by Canterbury as a direct result of shooters/club managers' requests. Canterbury has spent nearly 2.5 years in development to get this unit to perform to the same level as the wired system. It now works perfectly and in some respects it 'out performs' the wired unit.
 
 This unit features 5 microphones, each of which has is linked by short cable to its own transceiver. The transceiver clamps to the microphone stand.
@@ -14,7 +15,7 @@ The trap house has a 'base station' transceiver which is powered from the standa
 
 The referee/scorer also has a wireless transceiver which operates in the same manner as the old wired trigger. This allows the trap house transceiver to be switched on or off - so disabling the microphones - a target can be manually released and it has a visible light that blinks off when the trap is activated.
 
-![Wireless][2] The advantages of this system are:  
+The advantages of this system are:  
 
 - no cables across the shooting lanes  
 - easier to operate handicap events  
@@ -22,6 +23,7 @@ The referee/scorer also has a wireless transceiver which operates in the same ma
 - easier to use in winter temperatures where cables are not effective
 
 Batteries are 4 x AA units in each of the microphone and ref's units and it is anticipated that a club should get around 200 hours use out of a set. The trap unit is powered by 12V from the relay box connected to a 230V/110V outlet.
+</div>
 
 ---
 
@@ -33,4 +35,3 @@ Note:
 All units operate off 12 volts and are complete with their own transformer unit to step down from whatever power supply is provided in the country of use - 240V, 110V, etc. All units can be provided with a 12-volt battery hook-up if required. CVR systems can be attached to any make of trap worldwide.
 
 [1]: images/product_wireless_2.gif
-[2]: images/product_wireless_close.gif

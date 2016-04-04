@@ -18,8 +18,13 @@
 	}
 }
 
+.page-and-nav, header, footer {
+  padding-left: $spacing-unit;
+  padding-right: $spacing-unit;
+}
+
 .page-and-nav {
-	display: flex;
+    display: flex;
 	justify-content: flex-start;
 	
 	@include media-query($on-palm) {
@@ -41,7 +46,6 @@
     line-height: 56px;
 
     .page-link {
-        color: $text-color;
         line-height: $base-line-height;
 		
 		&.active {
@@ -58,7 +62,8 @@
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    padding-top: $spacing-unit;
+    padding-bottom: $spacing-unit;
 }
 
 .footer-heading {
