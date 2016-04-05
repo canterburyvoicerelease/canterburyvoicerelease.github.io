@@ -1,5 +1,4 @@
 ---
-layout: page
 title: About CVR
 order: 20
 tags:

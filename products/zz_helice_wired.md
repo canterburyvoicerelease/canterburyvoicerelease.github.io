@@ -1,5 +1,4 @@
 ---
-layout: page
 title: ZZ/Helice - Wired
 tags: products
 order: 50

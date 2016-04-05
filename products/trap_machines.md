@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Trap Machines
 tags: products
 order: 110

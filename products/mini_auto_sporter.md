@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Mini Auto Sporter 
 tags: products
 order: 90

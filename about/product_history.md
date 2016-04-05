@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Product History
 tags: about
 order: 20

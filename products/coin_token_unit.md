@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Coin/Token Unit
 tags: products
 order: 100

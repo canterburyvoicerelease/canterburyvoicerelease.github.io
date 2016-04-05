@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Significant Events
 tags: about
 order: 30

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Olympic Bunker
 tags: products
 order: 70

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Recommendations
 tags: about
 order: 40

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Trap/DTL - Wireless
 tags: products
 order: 20

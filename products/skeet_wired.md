@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Skeet - Wired
 tags: products
 order: 40

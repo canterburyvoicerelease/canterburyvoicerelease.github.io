@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Wireless Skeet
 tags: products
 order: 10

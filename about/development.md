@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Product Development
 tags: about
 order: 10

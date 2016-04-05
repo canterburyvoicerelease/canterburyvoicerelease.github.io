@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Trap/DTL - Wired
 tags: products
 order: 30

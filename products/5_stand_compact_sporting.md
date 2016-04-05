@@ -1,5 +1,4 @@
 ---
-layout: page
 title: 5-Stand/Compact Sporting 
 tags: products
 order: 80
