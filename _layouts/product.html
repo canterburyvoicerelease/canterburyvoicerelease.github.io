@@ -1,4 +1,7 @@
 ---
 layout: page
 ---
+{% if page.manual %}
+<a class="product manual" href="manuals/{{page.manual}}">Download Manual</a>
+{% endif %}
 {{ content }}
