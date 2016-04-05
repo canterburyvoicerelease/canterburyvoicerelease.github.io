@@ -1,6 +1,7 @@
 ---
 title: Coin/Token Unit
 tags: products
+manual: INSTRUCTIONS FOR THE CANTERBURY COIN TOKEN SYSTEM.pdf
 order: 100
 ---
 

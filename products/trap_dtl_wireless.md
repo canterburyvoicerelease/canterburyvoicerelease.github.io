@@ -1,6 +1,7 @@
 ---
 title: Trap/DTL - Wireless
 tags: products
+manual: INSTRUCTION MANUAL - Wireless Trap DTL June 2006.pdf
 order: 20
 ---
 <div id="dtl-wireless" markdown="1">

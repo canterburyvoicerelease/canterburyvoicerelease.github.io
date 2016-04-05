@@ -1,6 +1,7 @@
 ---
 title: Trap/DTL - Wired
 tags: products
+manual: Instruction Manual Trap DTL generic version July05.pdf
 order: 30
 ---
 This unit features 5 microphones, linked by cables to an electronics control box and from there to the trap and the scorer's trigger unit The electronics incorporate a 1/6th sec delay from the shooter's call to activation of the trap. This directly mimics the button operation of a human puller. Installation is simple and there are no dials or settings to fiddle with. The remote trigger unit for the scorer/referee has an 'on/off' switch and a 'push' button for testing the trap release. It also features a light which blinks off when the trap is activated - this allows a visual check of the trap from the scorers position without walking forward of the shooting line.

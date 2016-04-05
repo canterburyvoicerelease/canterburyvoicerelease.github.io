@@ -1,6 +1,7 @@
 ---
 title: Olympic Bunker
 tags: products
+manual: OLYMPIC TRENCH MANUAL MKII OCT2002.pdf
 order: 70
 ---
 

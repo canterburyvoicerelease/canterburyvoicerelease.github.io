@@ -2,6 +2,7 @@
 title: Wireless Skeet
 tags: products
 order: 10
+manual: INSTRUCTION MANUAL - wireless skeet June 2010.pdf
 ---
 Following on from the success of Canterbury's DTL/Trap wireless unit, this Skeet version is now fully developed. This system has taken a lot of work to enable it to seamlessly integrate into any Club's Skeet field as we found that there are so many different ways that Skeet fields are wired up, powered up, connected to target management units, etc, that we went down several dead ends in the process of this development. However, what we have ended up with will fit any Club's facility and give perfect target release over voice activation as well as the High to Low targets being 'armed' on gun report ready for the next call.
 

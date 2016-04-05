@@ -1,6 +1,7 @@
 ---
 title: 5-Stand/Compact Sporting 
 tags: products
+manual: FIVE STAND INSTRUCTION MANUAL.pdf
 order: 80
 ---
 
