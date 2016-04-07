@@ -88,7 +88,6 @@ blockquote {
 a.product.manual {
   float: right;
   margin-bottom: $spacing-unit / 2;
-  vertical-align: middle;
   height: 32px;
   
   &::after {
@@ -97,6 +96,7 @@ a.product.manual {
     height: 32px;
     width: 32px;
     background-image: url("/images/Adobe_PDF_file_icon_32x32.png");
+    vertical-align: bottom;
   }
 }
 
