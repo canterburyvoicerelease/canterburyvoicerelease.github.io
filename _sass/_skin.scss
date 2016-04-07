@@ -103,3 +103,7 @@ a.product.manual {
 .main-nav {
   border-right: 1px solid darkmagenta;
 }
+
+.site-nav > .sub-nav {
+  display: none;
+}

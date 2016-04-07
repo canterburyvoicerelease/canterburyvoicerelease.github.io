@@ -9,16 +9,39 @@ header {
   }
 }
 
+body {
+  width: 100%;
+  padding: 0;
+}
+
 .site-nav {
   width: 100%;
   flex: none;
 }
 
-.main-nav {
+.main-nav, nav > ol.sub-nav.active {
   display: flex;
   width: 100%;
   border: none;
   flex-wrap: wrap;
   justify-content: space-between;
   margin: 0;
+}
+
+nav ol li {
+  margin: 0;
+}
+
+nav ol ol.active {
+  display: none;
+}
+
+.site-nav > .sub-nav.active {
+  display: flex;
+  background-color: #efefef;
+  margin-top: 1em;
+  li {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
 }

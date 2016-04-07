@@ -9,3 +9,10 @@
         {% endfor %}
 </ol>
 </nav>
+<script defer>
+    var subnavs = document.querySelectorAll("ol.sub-nav");
+    for (var i = 0; i < subnavs.length; i++) {
+        var subnav = subnavs[i];
+        document.getElementsByClassName("site-nav")[0].appendChild(subnav.cloneNode(true));
+    }
+</script>
