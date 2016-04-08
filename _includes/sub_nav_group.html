@@ -1,0 +1,11 @@
+{% for sub_tag in include.page.tags %}
+{% unless sub_tag == "top" %}
+<ol class="sub-nav {{sub_tag}} {% if page.tags contains sub_tag%}active{% endif %}">
+    {% assign sub_pages = site.pages | where: "tags", sub_tag | sort: "order" %}
+
+    {% for sub_page in sub_pages %}
+    {% include nav_group.html page=sub_page %}
+    {% endfor %}
+</ol>
+{% endunless %}
+{% endfor %}

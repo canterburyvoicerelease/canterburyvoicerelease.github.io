@@ -7,12 +7,13 @@
                 {% include nav_group.html page=nav_page %}
             {% endif %}
         {% endfor %}
-</ol>
+    </ol>
+    {% comment %} This next section is only used for mobile site nav {% endcomment %}
+    {% assign pages = site.pages | sort: "order" %}
+
+    {% for nav_page in pages %}
+        {% if nav_page.tags contains "top" and nav_page.tags != "top" %}
+            {% include sub_nav_group.html page=nav_page %}
+        {% endif %}
+    {% endfor %}
 </nav>
-<script defer>
-    var subnavs = document.querySelectorAll("ol.sub-nav");
-    for (var i = 0; i < subnavs.length; i++) {
-        var subnav = subnavs[i];
-        document.getElementsByClassName("site-nav")[0].appendChild(subnav.cloneNode(true));
-    }
-</script>
