@@ -4,6 +4,9 @@ tags: products
 manual: ZZ INSTRUCTION MANUAL 4 Sept00.pdf
 order: 50
 ---
+
+### While we still support this product, we are currently evaluating a redevelopment of it incorporating the latest technology.
+
 This system has been especially developed to allow shooters to get consistent release of targets and for solo practice purposes. It features a single stand with two microphones and the control box attached. A cable links this back to the scorer and into the trap release mechanism. A simple pressure button is used to over-ride the microphones and allow the scorer & shooter to talk prior to target release and when ready, the pressure button is released and the shooter is then directly in control of the target.
 
 For practice purposes an automatic microphone engage button is provided at the microphone stand, which the shooter activates, so that the microphones are continually live and no other person is then required to assist with target release.
