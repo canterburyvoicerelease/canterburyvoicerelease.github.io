@@ -4,6 +4,9 @@ tags: products
 manual: INSTRUCTION MANUAL SKEET USA version.pdf
 order: 40
 ---
+
+### While we still support this product, we are currently evaluating a redevelopment of it incorporating the latest technology.
+
 Features a single stand, which holds two microphones, the control box and the sequencer on a custom bracket. The stand is carried from post to post as required. The sequencer has sufficient cable length that it can be held by the scorer behind the squad and features all sequences of target release plus separate HI, LO & Double. A "back" button is used for broken targets etc. This unit is suitable for practice or competition use. The sequencer can be provided in whatever form of Skeet is being shot - English, US, or other.
 
 The control box features special design work to allow Skeet shooters to call for targets exactly as they would with a manual release.
