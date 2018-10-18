@@ -5,6 +5,8 @@ manual: FIVE STAND INSTRUCTION MANUAL.pdf
 order: 80
 ---
 
+While we still support this product, we are currently evaluating a redevelopment of it incorporating the latest technology.
+
 ![5-Stand Front Panel][1] Developed to provide a simple, easy to use, controller that will link to any current make of Trench/Bunker trap machine set up, this unit is an ideal replacement system for any old Olympic lay out. All Olympic regulations are covered with this unit and systems have been operating successfully in Europe, Russia, Australia and New Zealand for many years.
 
 This unit allows a full interface with up to 10 sporting traps by either cable or wireless so that a full 5-Stand/Compact Sporting complex can be operated over voice release automatically.
