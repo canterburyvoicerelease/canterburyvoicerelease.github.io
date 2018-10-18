@@ -5,9 +5,9 @@ tags:
  - products
 order: 30
 ---
-Canterbury have developed a comprehensive range of products for almost all disciplines of competitive clay target shooting.
+Canterbury Voice Release have developed a comprehensive range of products for almost all disciplines of competitive clay target shooting.
 
-Each product either incorporates or is tied into Canterbury's unique voice activation system for the target release. This system removes the need to have a manual target puller and the problem of 'fast' and 'slow' targets is therefore eliminated.
+Each product either incorporates or is tied into CVR's unique voice activation system for the target release. This system removes the need to have a manual target puller and the problem of 'fast' and 'slow' targets is therefore eliminated.
 
 The benefits of this voice activation includes:
 
