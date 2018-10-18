@@ -5,7 +5,7 @@ manual: INSTRUCTION MANUAL - Wireless Trap DTL June 2006.pdf
 order: 20
 ---
 <div id="dtl-wireless" markdown="1">
-![Wireless][1] This is the latest unit to be developed by Canterbury as a direct result of shooters/club managers' requests. Canterbury has spent nearly 2.5 years in development to get this unit to perform to the same level as the wired system. It now works perfectly and in some respects it 'out performs' the wired unit.
+![Wireless][1] This unit was developed by Canterbury as a direct result of shooters/club managers' requests. Canterbury spent nearly 2.5 years in development to get this unit to perform to the same level as the wired system. It works perfectly and in some respects it 'out performs' the wired unit.
 
 This unit features 5 microphones, each of which has is linked by short cable to its own transceiver. The transceiver clamps to the microphone stand.
 
