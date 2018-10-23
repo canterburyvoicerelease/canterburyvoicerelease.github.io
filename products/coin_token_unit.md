@@ -5,7 +5,7 @@ manual: INSTRUCTIONS FOR THE CANTERBURY COIN TOKEN SYSTEM.pdf
 order: 100
 ---
 
-### While we still support this product, we are currently evaluating a redevelopment of it incorporating the latest technology.
+__While we still support this product, we are currently evaluating a redevelopment of it incorporating the latest technology.__
 
 ![Coin Token][1] This controller allows a club to connect their trap machine and/or voice release system for complete target management control. Target 'slippage' is a constant problem at clubs and this provides a simple solution.
                         
