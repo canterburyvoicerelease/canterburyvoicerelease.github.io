@@ -5,7 +5,7 @@ manual: OLYMPIC TRENCH MANUAL MKII OCT2002.pdf
 order: 70
 ---
 
-### While we still support this product, we are currently evaluating a redevelopment of it incorporating the latest technology.
+__While we still support this product, we are currently evaluating a redevelopment of it incorporating the latest technology.__
 
 ### Olympic Bunker/Trench/Double Trap/5-Trap
 ![Olympic Bunker][1] Developed to provide a simple, easy to use, controller that will link to any current make of Trench/Bunker trap machine set up, this unit is an ideal replacement system for any old Olympic lay out. All Olympic regulations are covered with this unit and systems have been operating successfully in Europe, Russia, Australia and New Zealand for many years.
