@@ -17,13 +17,13 @@ NEW ZEALAND
 
 Mr Arvind Masalimani
 
-Mobile: 64
+Mob: +64 027 514 5321
 E-mail: 
 
 Mr Bruce Rickard
 
-Mobile: 64 21 413 110
-E-mail: [bruce@cvr.co.nz][2] 
+Mob: +64 21 413 110
+E-mail: [bruce@cvr.co.nz][3] 
   
 ---  
 
@@ -37,8 +37,8 @@ E-mail: [bruce@cvr.co.nz][2]
   
 Mr Peter Fitzalan
 
-Tel: 61 042 885 6099  
-Fax: 61 2 6885 6099  
+Tel: +61 042 885 6099  
+Fax: +61 2 6885 6099  
 E-mail: [peter.fitzalan@bigpond.com][5]
 
 #### Queensland
@@ -46,33 +46,34 @@ E-mail: [peter.fitzalan@bigpond.com][5]
   
 Mr Dennis Harwood
 
-Tel: 61 7 4635 3856  
+Tel: +61 7 4635 3856  
 E-mail: [dennis.harwood2@bigpond.com][6]
 
 Clay Targets Australia Pty Ltd  
 Mr Kevin Tunney
 
-Tel: 61 7 3816 1699  
-Fax: 61 7 3816 1770  
+Tel: +61 7 3816 1699  
+Fax: +61 7 3816 1770  
 E-mail: [admin@claytargets.com.au][7]
 
 #### South Australia
 
   
 Mr Steve Baynes
+Tel: +61 4 2882 7330
 
 #### Tasmania
 
   
 Mr Graeme Blaskett
 
-Tel: 61 3 6331 7090  
+Tel: +61 3 6331 7090  
 
 #### West Australia
 
   
 Mr Wayne Kuser  
-Tel: 61 8 9355 2104  
+Tel: +61 8 9355 2104  
 E-mail: [premium.sales@bigpond.com][9]
 
 #### Australian Agent and repair depot for power supply units
@@ -81,8 +82,8 @@ E-mail: [premium.sales@bigpond.com][9]
 Mr Kevin Knight
 
 Mob: 0408 473 843  
-Tel: 61 7 3886 6390 (A/H)  
-Fax: 61 7 3886 7515  
+Tel: +61 7 3888 5818 (A/H)  
+Fax: +61 7 3886 7515  
 E-mail: [kevlec@bigpond.net.au][10]
 
 ---  
@@ -97,8 +98,8 @@ Mr Arthur Williams
 Ffinnant Farm  
 Trefeglwys, Caersws  
 Powys SY17 5QY  
-Tel: 44 1686 430 654  
-Fax: 44 1686 430 715  
+Tel: +44 1686 430 654  
+Fax: +44 1686 430 715  
 E-mail: [shooting.centre@virgin.net][12]
 
 ---  
@@ -182,12 +183,13 @@ Tallekullen 101
 Industriomade Nyttord  
 691 93 Karlskoga  
 SWEDEN  
-Tel: 46 72 7227345  
+
+Tel: +46 72 7227345  
 E-mail: [info@beomat.se][26]
 
 
 [1]: images/map_nz.gif
-[2]: mailto:bruce@cvr.co.nz
+[3]: mailto:bruce@cvr.co.nz
 [4]: images/map_australia.gif
 [5]: mailto:peter.fitzalan@bigpond.com
 [6]: mailto:dennis.harwood2@bigpond.com
