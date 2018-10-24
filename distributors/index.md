@@ -8,21 +8,23 @@ order: 50
 
   
 ![NZ Map][1]
-Canterbury Voice Release Partnership
 
-24a Essex St
-Linwood
-Christchurch 8011
-NEW ZEALAND
+Canterbury Voice Release Partnership  
 
-Mr Arvind Masalimani
+24a Essex St  
+Linwood  
+Christchurch 8011  
+NEW ZEALAND  
 
-Mob: +64 027 514 5321
-E-mail: 
+Mr Arvind Masalimani  
+
+Mob: +64 027 514 5321  
+E-mail: [arvind@sicom.co.nz][2]
+
 
 Mr Bruce Rickard
 
-Mob: +64 21 413 110
+Mob: +64 21 413 110  
 E-mail: [bruce@cvr.co.nz][3] 
   
 ---  
@@ -92,6 +94,7 @@ E-mail: [kevlec@bigpond.net.au][10]
 
   
 ![UK Ireland Map][11]
+
 Mid-Wales Shooting Ground  
 Mr Arthur Williams
 
@@ -176,6 +179,7 @@ E-mail: [wgp@junctionnet.com][24]
 
   
 ![Russia Map][25]
+
 BEOMAT SWEDEN A.B.  
 Mr Ovidiu Onaca
 
@@ -189,6 +193,7 @@ E-mail: [info@beomat.se][26]
 
 
 [1]: images/map_nz.gif
+[2]: mailto:arvind@sicom.co.nz
 [3]: mailto:bruce@cvr.co.nz
 [4]: images/map_australia.gif
 [5]: mailto:peter.fitzalan@bigpond.com
