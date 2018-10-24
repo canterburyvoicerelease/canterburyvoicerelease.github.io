@@ -126,40 +126,6 @@ Fax: 828-693-3832
 E-mail: [Targetshotguns@aol.com][18]  
 WWW: [www.targetshotguns.com][19]
 
-#### Western States & BC, Canada
-
-  
-Golden West Industries  
-Mr Mike Elton
-
-750 Arroyo Ave  
-San Fernando, CA 91340  
-Tel: 1 818 365 3946  
-Fax: 1 818 365 8725  
-E-mail: [goldenwestind@msn.com][14]
-
-#### Rocky Mountain States
-
-  
-Rocky Mountain Clay Sports  
-Mr Jim Rodgers
-
-6158 East Otero Place  
-Centennial, Colorado 80112  
-Tel: 1 720 530 5327  
-E-mail: [info@rmclaysports.com][15]  
-WWW: [www.rmclaysports.com][16]
-
-#### Central States. Wisconsin
-
-  
-Pierce Sales and Repair  
-Mr Bryan Pierce
-
-432 Oakridge Drive  
-Portage. WI 53901  
-Tel: 1 608 617 6631  
-E-mail: [pierceclaysports@yahoo.com][23]
 
 ### Canada
 
