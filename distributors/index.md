@@ -61,7 +61,7 @@ E-mail: [admin@claytargets.com.au][7]
 #### South Australia
 
   
-Mr Steve Baynes
+Mr Steve Baynes  
 Tel: +61 4 2882 7330
 
 #### Tasmania
@@ -75,8 +75,9 @@ Tel: +61 3 6331 7090
 
   
 Mr Wayne Kuser  
+  
 Tel: +61 8 9355 2104  
-E-mail: [premium.sales@bigpond.com][9]
+E-mail: [premium.sales@bigpond.com][8]
 
 #### Australian Agent and repair depot for power supply units
 
@@ -86,14 +87,14 @@ Mr Kevin Knight
 Mob: 0408 473 843  
 Tel: +61 7 3888 5818 (A/H)  
 Fax: +61 7 3886 7515  
-E-mail: [kevlec@bigpond.net.au][10]
+E-mail: [kevlec@bigpond.net.au][9]
 
 ---  
 
 ### UK & Ireland (Distributor & Repair agent)
 
   
-![UK Ireland Map][11]
+![UK Ireland Map][10]
 
 Mid-Wales Shooting Ground  
 Mr Arthur Williams
@@ -103,14 +104,14 @@ Trefeglwys, Caersws
 Powys SY17 5QY  
 Tel: +44 1686 430 654  
 Fax: +44 1686 430 715  
-E-mail: [shooting.centre@virgin.net][12]
+E-mail: [shooting.centre@virgin.net][11]
 
 ---  
 
 ### USA and Canada (Distributors & Repair agents)
 
   
-![USA Map][13]
+![USA Map][12]
 
 
 #### Importer / Distributor
@@ -123,8 +124,8 @@ Mr Bob Schultz
 Hendersonville, NC 28792  
 Tel: 800-684-6329  
 Fax: 828-693-3832  
-E-mail: [Targetshotguns@aol.com][18]  
-WWW: [www.targetshotguns.com][19]
+E-mail: [Targetshotguns@aol.com][13]  
+WWW: [www.targetshotguns.com][14]
 
 
 ### Canada
@@ -137,14 +138,14 @@ Mr Erv Heiman
 Edmonton, T5S 1K5  
 Tel: 1 780 489 5711  
 Fax: 1 780 489 5717  
-E-mail: [wgp@junctionnet.com][24]  
+E-mail: [wgp@junctionnet.com][15]  
   
 ---  
 
 ### Scandinavia & Russia (Distributor & Repair agent)
 
   
-![Russia Map][25]
+![Russia Map][16]
 
 BEOMAT SWEDEN A.B.  
 Mr Ovidiu Onaca
@@ -153,9 +154,8 @@ Tallekullen 101
 Industriomade Nyttord  
 691 93 Karlskoga  
 SWEDEN  
-
 Tel: +46 72 7227345  
-E-mail: [info@beomat.se][26]
+E-mail: [info@beomat.se][17]
 
 
 [1]: images/map_nz.gif
@@ -165,22 +165,13 @@ E-mail: [info@beomat.se][26]
 [5]: mailto:peter.fitzalan@bigpond.com
 [6]: mailto:dennis.harwood2@bigpond.com
 [7]: mailto:admin@claytargets.com.au
-[8]: mailto:holjan@internode.on.net
-[9]: mailto:premium.sales@bigpond.com
-[10]: mailto:kevlec@bigpond.net.au
-[11]: images/map_uk_ireland.gif
-[12]: mailto:shooting.centre@virgin.net
-[13]: images/map_usa_canada.gif
-[14]: mailto:goldenwestind@msn.com
-[15]: mailto:info@rmclaysports.com
-[16]: http://www.rmclaysports.com
-[17]: mailto:ken@shootingsupplies.net
-[18]: mailto:Targetshotguns@aol.com
-[19]: http://www.targetshotguns.com
-[20]: mailto:wbunch@usaonline.net
-[21]: http://www.helice.us/
-[22]: mailto:inmans@alaska.net
-[23]: mailto:pierceclaysports@yahoo.com
-[24]: mailto:wgp@junctionnet.com
-[25]: images/map_russia.gif
-[26]: mailto:info@beomat.se
+[8]: mailto:premium.sales@bigpond.com
+[9]: mailto:kevlec@bigpond.net.au
+[10]: images/map_uk_ireland.gif
+[11]: mailto:shooting.centre@virgin.net
+[12]: images/map_usa_canada.gif
+[13]: mailto:Targetshotguns@aol.com
+[14]: http://www.targetshotguns.com
+[15]: mailto:wgp@junctionnet.com
+[16]: images/map_russia.gif
+[17]: mailto:info@beomat.se
