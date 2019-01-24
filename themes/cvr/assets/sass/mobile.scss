@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+header {
+  justify-content: center;
+  .title {
+    display: none;
+  }
+}
+
+body {
+  width: 100%;
+  padding: 0;
+}
+
+.site-nav {
+  width: 100%;
+  flex: none;
+}
+
+.main-nav, nav > ol.sub-nav.active {
+  display: flex;
+  width: 100%;
+  border: none;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0;
+  padding: 5px;
+}
+
+nav ol li {
+  margin: 5px;
+}
+
+nav li.active ol.sub-menu {
+  display: none;
+}
+
+.site-nav > .sub-nav.active {
+  display: flex;
+  background-color: #efefef;
+  margin-top: 1em;
+  li {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+{{ partial "head.html" . }}
+
+<body class="{{.Title | urlize }}">
+
+{{ partial "header.html" . }}
+
+<div class="page-and-nav">
+    {{ partial "nav.html" . }}
+
+    <div class="page-content">
+        <div class="wrapper">
+            {{ block "main" . }}
+            {{ end }}
+        </div>
+    </div>
+</div>
+{{ partial "footer.html" . }}
+
+</body>
+
+</html>

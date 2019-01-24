@@ -1,0 +1,9 @@
+baseURL = "http://cvr.co.nz/"
+languageCode = "en-us"
+title = "Canterbury Voice Release"
+theme = "cvr"
+
+[params]
+    tagline = "Equipment Competitors Demand"
+    description = "The World's most reliable voice activated clay target release system for Trap/DTL, Skeet, 5-Stand & ZZ/Helice shooting. No more complaints about pullers and no more 'turning down' fast or slow targets."
+    

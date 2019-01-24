@@ -1,0 +1,41 @@
+<nav class="site-nav">
+    <ol class="main-nav">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+        {{ if .HasChildren }}
+        <li class="page-link {{ if or ($currentPage.IsDescendant .Page) (eq $currentPage.URL .URL) }}active{{ end }}">
+            <a href="{{ .URL }}">
+                {{ .Pre }}
+                <span>{{ .Name }}</span>
+            </a>
+            <ol class="sub-menu {{ if $currentPage.HasMenuCurrent .Name . }}active{{ end }}">
+                {{ range .Children }}
+                <li class="page-link {{ if eq $currentPage.URL .URL }}active{{ end }}">
+                <a href="{{ .URL }}">{{ .Name }}</a>
+                </li>
+                {{ end }}
+            </ol>
+        </li>
+        {{ else }}
+        <li class="page-link {{ if (eq $currentPage.URL .URL) }}active{{ end }}">
+            <a href="{{ .URL }}">
+                {{ .Pre }}
+                <span>{{ .Name }}</span>
+            </a>
+        </li>
+        {{ end }}
+        {{ end }}
+    </ol>
+    {{ range .Site.Menus.main }}
+    {{ if and (.HasChildren) (or ($currentPage.IsDescendant .Page) (eq $currentPage.URL .URL)) }}
+    <ol class="sub-nav active">
+        {{ range .Children }}
+        <li class="page-link {{ if eq $currentPage.URL .URL }}active{{ end }}">
+            <a href="{{ .URL }}">{{ .Name }}</a>
+        </li>
+        {{ end }}
+    </ol>
+    {{ end }}
+    {{ end }}
+    
+</nav>

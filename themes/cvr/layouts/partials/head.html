@@ -1,0 +1,14 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{ .Title }}</title>
+  <meta name="description" content="{{ .Site.Params.description }}">
+  {{ $mainStyles := resources.Get "/sass/main.scss" | toCSS | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $mainStyles.Permalink }}" integrity="{{ $mainStyles.Data.Integrity }}" media="screen">
+  {{ $mobileStyles := resources.Get "/sass/mobile.scss" | toCSS | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $mobileStyles.Permalink }}" integrity="{{ $mobileStyles.Data.Integrity }}" media="(max-width: 600px)">
+  <link rel="canonical" href="{{.Page.Permalink | absURL}}">
+  <link rel="shortcut icon" href="/static/images/cvricon.gif">
+</head>

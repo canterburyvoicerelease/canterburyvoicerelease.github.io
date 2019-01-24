@@ -1,0 +1,9 @@
+{{ define "main" }}
+<div class="article">
+    <div class="post-content">
+        <h3 class="page-title">{{.Title }}</h3>
+        {{if .Params.manual}}<a class="product manual" href="../manuals/{{.Params.manual}}">Download Manual</a>{{end}}
+        {{ .Content }}
+    </div>
+</div>
+{{ end }}
