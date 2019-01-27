@@ -10,5 +10,5 @@
   {{ $mobileStyles := resources.Get "/sass/mobile.scss" | toCSS | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $mobileStyles.RelPermalink }}" integrity="{{ $mobileStyles.Data.Integrity }}" media="(max-width: 600px)">
   <link rel="canonical" href="{{.Page.Permalink | absURL}}">
-  <link rel="shortcut icon" href="/static/images/cvricon.gif">
+  <link rel="shortcut icon" href="/images/cvricon.gif">
 </head>
