@@ -65,7 +65,8 @@ E-mail: [admin@claytargets.com.au][7]
 
   
 Mr Steve Baynes  
-Tel: +61 4 2882 7330
+
+Tel: +61 4 2882 7330  
 E-mail: [steveackley68@gmail.com][18]
 
 #### Tasmania
