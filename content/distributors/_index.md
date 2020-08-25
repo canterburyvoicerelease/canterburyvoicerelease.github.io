@@ -66,6 +66,7 @@ E-mail: [admin@claytargets.com.au][7]
   
 Mr Steve Baynes  
 Tel: +61 4 2882 7330
+E-mail: [steveackley68@gmail.com][18]
 
 #### Tasmania
 
@@ -77,10 +78,10 @@ Tel: +61 3 6331 7090
 #### West Australia
 
   
-Mr Wayne Kuser  
+Mr Shane O'Brien  
   
-Tel: +61 8 9355 2104  
-E-mail: [premium.sales@bigpond.com][8]
+Tel: +61 419999784  
+E-mail: [shaneobrien@westnet.com.au][8]
 
 #### Australian Agent and repair depot for power supply units
 
@@ -89,7 +90,6 @@ Mr Kevin Knight
 
 Mob: 0408 473 843  
 Tel: +61 7 3888 5818 (A/H)  
-Fax: +61 7 3886 7515  
 E-mail: [kevlec@bigpond.net.au][9]
 
 ---  
@@ -111,7 +111,7 @@ E-mail: [shooting.centre@virgin.net][11]
 
 ---  
 
-### USA and Canada (Distributors & Repair agents)
+### USA, Canada and South America (Distributors & Repair agents)
 
   
 ![USA Map][12]
@@ -150,15 +150,14 @@ E-mail: [wgp@junctionnet.com][15]
   
 ![Russia Map][16]
 
-BEOMAT SWEDEN A.B.  
-Mr Ovidiu Onaca
+BEOMAT A.B.  
+Mr Roger Pettersson
 
-Tallekullen 101  
-Industriomade Nyttord  
-691 93 Karlskoga  
+Trumslagarens gata 10
+653 48 Karlstad
 SWEDEN  
-Tel: +46 72 7227345  
-E-mail: [info@beomat.se][17]
+Tel: +46 70 651 3011  
+E-mail: [roger@beomat.se][17]
 
 
 [1]: images/map_nz.gif
@@ -168,7 +167,7 @@ E-mail: [info@beomat.se][17]
 [5]: mailto:peter.fitzalan@bigpond.com
 [6]: mailto:dennis.harwood2@bigpond.com
 [7]: mailto:admin@claytargets.com.au
-[8]: mailto:premium.sales@bigpond.com
+[8]: mailto:shaneobrien@westnet.com.au
 [9]: mailto:kevlec@bigpond.net.au
 [10]: images/map_uk_ireland.gif
 [11]: mailto:shooting.centre@virgin.net
@@ -177,4 +176,5 @@ E-mail: [info@beomat.se][17]
 [14]: http://www.targetshotguns.com
 [15]: mailto:wgp@junctionnet.com
 [16]: images/map_russia.gif
-[17]: mailto:info@beomat.se
+[17]: mailto:roger@beomat.se
+[18]: mailto:steveackley68@gmail.com
